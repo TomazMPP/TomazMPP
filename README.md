@@ -35,8 +35,8 @@ I'm Tomaz, future software engineer from <img src="https://cdn-icons-png.flatico
   <a href="https://linktr.ee/tomazpontes">
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
       <div align="center">
-        <img width="60%" src="https://tomazmpp.vercel.app/api?username=TomazMPP&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true"/></a>
-        <img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomazMPP&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+        <img width="60%" src="https://github-readme-stats-plum-five-51.vercel.app//api?username=TomazMPP&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true"/></a>
+        <img width="38.25%" src="https://github-readme-stats-plum-five-51.vercel.app//api/top-langs/?username=TomazMPP&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
         </div>
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 </div>
