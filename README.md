@@ -17,8 +17,7 @@ I'm Tomaz, future software engineer from <img src="https://cdn-icons-png.flatico
 </div>
 
   ##
- 
-<center>
+
 <div> 
 <br>
   <a href="https://www.tomazpontes.me/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
@@ -29,7 +28,6 @@ I'm Tomaz, future software engineer from <img src="https://cdn-icons-png.flatico
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=TomazMPP&color=blueviolet&style=for-the-badge&label=VISITORS"/>
   </a>
 </div>
-</center>
 
 ##
 
