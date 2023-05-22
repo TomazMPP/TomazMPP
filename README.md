@@ -6,14 +6,13 @@ I'm Tomaz, future software engineer from <img src="https://cdn-icons-png.flatico
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🎓 Studying by myself, planning to join an university next year.
 - 🌐 I'm a cybersecurity entusiast, currently searching and learning pentest also by myself.
-- 👨‍💻 Focused mainly on JavaScript and Python
+- 👨‍💻 Focused mainly on JavaScript/TypeScript
 
 <div style="display: inline_block"><br>
   <img target="_blank" align="center" alt="Tomaz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img target="_blank" align="center" alt="Tomaz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img target="_blank" align="center" alt="Tomaz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img target="_blank" align="center" alt="Tomaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img target="_blank" align="center" alt="Tomaz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
   ##
