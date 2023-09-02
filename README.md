@@ -5,8 +5,8 @@ I'm Tomaz, future software engineer from <img src="https://cdn-icons-png.flatico
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🎓 I'm currently studying Software Engineering at Estácio. I'm also taking many side courses, such as Harvard's CS50.
+- 👨‍💻 I'm mainly focused on JavaScript/TypeScript, but I intend to learn Java for backend soon, so I can become a full-stack software engineer.
 - 🌐 I'm a cybersecurity entusiast, currently searching and learning pentest on my own as well.
-- 👨‍💻 I'm mainly focused on JavaScript/TypeScript.
 
 <div style="display: inline_block"><br>
   <img target="_blank" align="center" alt="Tomaz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
