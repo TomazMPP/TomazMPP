@@ -1,7 +1,7 @@
 ### Hi, I'm Tomaz! 👋
 
 <p>Welcome to my page! </br>
-I'm Tomaz, future software engineer from <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="13"/> <b>Belo Horizonte, Brazil</b>.
+I'm Tomaz, software engineer junior from <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="13"/> <b>Belo Horizonte, Brazil</b>.
 <br> 
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
