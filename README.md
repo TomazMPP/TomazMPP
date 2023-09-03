@@ -2,12 +2,14 @@
 
 <p>Welcome to my page! </br>
 I'm Tomaz, future software engineer from <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="13"/> <b>Belo Horizonte, Brazil</b>.
+<br> 
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🎓 I'm currently studying Software Engineering at Estácio. I'm also taking many side courses, such as Harvard's CS50.
 - 👨‍💻 I'm mainly focused on JavaScript/TypeScript, but I intend to learn Java for backend soon, so I can become a full-stack software engineer.
 - 🌐 I'm a cybersecurity entusiast, currently searching and learning pentest on my own as well.
 - 💻 Proud creator of [ultimamedalha.com.br](https://www.ultimamedalha.com.br)
+- 💎 You can check my portfolio here: https://www.tomazpont.es
 <div style="display: inline_block"><br>
   <img target="_blank" align="center" alt="Tomaz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img target="_blank" align="center" alt="Tomaz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
