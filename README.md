@@ -13,7 +13,7 @@ I'm Tomaz, Software Engineer Jr. from <img src="https://cdn-icons-png.flaticon.c
 <div style="display: inline_block"><br>
   <img target="_blank" align="center" alt="Tomaz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img target="_blank" align="center" alt="Tomaz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img target="_blank" align="center" alt="Tomaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vuejs/vuejs-original-wordmark.svg">
+  <img target="_blank" align="center" alt="Tomaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vuejs/vuejs-original.svg">
   <img target="_blank" align="center" alt="Tomaz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img target="_blank" align="center" alt="Tomaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
