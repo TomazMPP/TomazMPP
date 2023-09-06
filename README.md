@@ -5,7 +5,7 @@ I'm Tomaz, Software Engineer Jr. from <img src="https://cdn-icons-png.flaticon.c
 <br> 
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🎓 I'm currently studying Software Engineering at Estácio. I'm also taking many side courses, such as Harvard's CS50.
+- 🎓 I'm currently studying in 2 universities. Analysis and Systems Development at PUC-Minas and Software Engineering at Estácio. I'm also taking many side courses, such as Harvard's CS50.
 - 👨‍💻 I'm mainly focused on JavaScript/TypeScript/VueJS, but I intend to learn Java for backend soon, so I can become a full-stack software engineer.
 - 🌐 I'm a cybersecurity entusiast, currently searching and learning pentest on my own as well.
 - 💻 Proud creator of [ultimamedalha.com.br](https://www.ultimamedalha.com.br)
