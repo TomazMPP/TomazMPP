@@ -10,6 +10,7 @@ I'm Tomaz, Software Engineer Jr. from <img src="https://cdn-icons-png.flaticon.c
 - 🎓 I'm currently studying in 2 universities. Analysis and Systems Development at PUC-Minas and Software Engineering at Estácio. I'm also taking many side courses, such as Harvard's CS50.
 - 👨‍💻 I'm mainly focused on JavaScript/TypeScript/VueJS, but I intend to learn Java for backend soon, so I can become a full-stack software engineer.
 - 💻 Proud creator of [ultimamedalha.com.br](https://www.ultimamedalha.com.br)
+- <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="13"/><img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="13"/><img src="https://cdn-icons-png.flaticon.com/512/323/323275.png" width="13"/> I can speak native brazilian portuguese and fluent english. I'm also learning dutch
 <div style="display: inline_block"><br>
   <img target="_blank" align="center" alt="Tomaz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img target="_blank" align="center" alt="Tomaz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
