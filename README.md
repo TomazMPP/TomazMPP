@@ -26,7 +26,7 @@ I'm Tomaz, Software Engineer Jr. from <img src="https://cdn-icons-png.flaticon.c
   <a href="https://www.tomazpont.es" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href = "mailto:tomazmppontes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tomaz-pontes-851b85131/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://komarev.com/ghpvc/?username=TomazMPP&color=blueviolet&style=for-the-badge&label=VISITORS">
+  <a href="#">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=TomazMPP&color=blueviolet&style=for-the-badge&label=VISITORS"/>
   </a>
 </div>
@@ -34,10 +34,10 @@ I'm Tomaz, Software Engineer Jr. from <img src="https://cdn-icons-png.flaticon.c
 ##
 
 <div>
-  <a href="https://linktr.ee/tomazpontes">
+  <a href="#">
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
       <div align="center">
-        <img width="60%" src="https://github-readme-stats-plum-five-51.vercel.app//api?username=TomazMPP&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true"/></a>
+        <img width="60%" src="https://github-readme-stats-plum-five-51.vercel.app//api?username=TomazMPP&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true"/>
         <img width="38.25%" src="https://github-readme-stats-plum-five-51.vercel.app//api/top-langs/?username=TomazMPP&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
         </div>
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
