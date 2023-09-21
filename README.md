@@ -35,11 +35,10 @@ I'm Tomaz, Software Engineer Jr. from <img src="https://cdn-icons-png.flaticon.c
 
 <div>
   <a href="#" target="_self">
-    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
       <div align="center">
         <img width="60%" src="https://github-readme-stats-plum-five-51.vercel.app//api?username=TomazMPP&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true"/>
         <img width="38.25%" src="https://github-readme-stats-plum-five-51.vercel.app//api/top-langs/?username=TomazMPP&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
         </div>
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 </div>
+    <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TomazMPP&theme=github-compact">
