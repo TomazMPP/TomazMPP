@@ -42,3 +42,4 @@ I'm Tomaz, Software Engineer Jr. from <img src="https://cdn-icons-png.flaticon.c
         </div>
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TomazMPP&theme=github-compact">
