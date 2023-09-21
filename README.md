@@ -1,7 +1,7 @@
 ### Hi, I'm Tomaz! 👋
 
 <p>Welcome to my page! </br>
-I'm Tomaz, Software Engineer Jr. from <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="13"/> <b>Belo Horizonte, Brazil</b>.
+I'm Tomaz, Full-Stack Developer from <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="13"/> <b>Belo Horizonte, Brazil</b>.
 <br> 
 
 💎 You can check my portfolio here: https://www.tomazpont.es
