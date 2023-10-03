@@ -44,5 +44,3 @@ I'm Tomaz, Full-Stack Developer from <img src="https://cdn-icons-png.flaticon.co
 </div>
     <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TomazMPP&theme=github-compact">
-<br>
-<p> <img align="center" src="https://streak-stats.demolab.com?user=TomazMPP&theme=dark&hide_border=true"  alt="tomazmpp" /></p>
