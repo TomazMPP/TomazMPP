@@ -12,7 +12,7 @@ I'm Tomaz, Full-Stack Developer from <img src="https://cdn-icons-png.flaticon.co
 - 💻 Proud creator of [ultimamedalha.com.br](https://www.ultimamedalha.com.br)
 - <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="15"/><img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="15"/><img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="15"/> I can speak **native Brazilian portuguese** and **fluent English [(C2 Certified)](https://www.efset.org/cert/81WpEu)**. I'm also **learning German.**
 - I love redbull <img target="_blank" align="center" alt="Tomaz-CSS" height="20" width="20" src="https://cdn3.iconfinder.com/data/icons/food-emoji/50/EnergyDrink-512.png"><img target="_blank" align="center" alt="Tomaz-CSS" height="20" width="20" src="https://cdn3.iconfinder.com/data/icons/food-emoji/50/EnergyDrink-512.png"><img target="_blank" align="center" alt="Tomaz-CSS" height="20" width="20" src="https://cdn3.iconfinder.com/data/icons/food-emoji/50/EnergyDrink-512.png">
-- GPA 1st Semester (converted on a 0-4 weighted scale): 3.82 & 3.74
+- **GPA 1st Semester** (converted on a 0-4 weighted scale): 3.82 & 3.74
 <div style="display: inline_block"><br>
   <img target="_blank" align="center" alt="Tomaz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img target="_blank" align="center" alt="Tomaz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
