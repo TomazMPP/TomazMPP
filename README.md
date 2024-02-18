@@ -9,8 +9,6 @@ I'm Tomaz, Full-Stack Developer from <img src="https://cdn-icons-png.flaticon.co
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🎓 I'm currently studying in 2 universities. **Analysis and Systems Development** at PUC-Minas and **Software Engineering** at Estácio. I'm also taking many side courses, such as **Harvard's CS50**.
-- 👨‍💻 At the moment, I'm focused on learning Java, after a few months of heavy studies in JavaScript. I also have a bit of experience with TypeScript and VueJS.
-- 💻 Proud creator of [ultimamedalha.com.br](https://www.ultimamedalha.com.br)
 - <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="15"/><img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="15"/><img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="15"/> I can speak **native Brazilian portuguese** and **fluent English [(C2 Certified)](https://www.efset.org/cert/81WpEu)**. I'm also **learning German.**
 - **GPA 1st Semester** (converted on a 0-4 weighted scale): 3.82 (Estácio) & 3.74 (PUC)
 <div style="display: inline_block"><br>
