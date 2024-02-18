@@ -4,7 +4,8 @@
 I'm Tomaz, Full-Stack Developer from <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="13"/> <b>Belo Horizonte, Brazil</b>.
 <br> 
 
-💎 You can check my portfolio here: https://www.tomazpont.es
+👨‍💻You can check my portfolio here: https://www.tomazpont.es <br>
+📖 Also my blog: https://blog.tomazpont.es
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🎓 I'm currently studying in 2 universities. **Analysis and Systems Development** at PUC-Minas and **Software Engineering** at Estácio. I'm also taking many side courses, such as **Harvard's CS50**.
