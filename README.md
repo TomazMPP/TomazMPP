@@ -11,17 +11,25 @@ I'm Tomaz, Full-Stack Developer from <img src="https://cdn-icons-png.flaticon.co
 - 🎓 I'm currently studying in 2 universities. **Analysis and Systems Development** at PUC-Minas and **Software Engineering** at Estácio. I'm also taking many side courses, such as **Harvard's CS50**.
 - <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="15"/><img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="15"/><img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="15"/> I can speak **native Brazilian portuguese** and **fluent English [(C2 Certified)](https://www.efset.org/cert/81WpEu)**. I'm also **learning German.**
 - **GPA 1st Semester** (converted on a 0-4 weighted scale): 3.82 (Estácio) & 3.74 (PUC)
-<div style="display: inline_block"><br>
-  <img target="_blank" align="center" alt="Tomaz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img target="_blank" align="center" alt="Tomaz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg">
-  <img target="_blank" align="center" alt="Tomaz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img target="_blank" align="center" alt="Tomaz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img target="_blank" align="center" alt="Tomaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vuejs/vuejs-original.svg">
-  <img target="_blank" align="center" alt="Tomaz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img target="_blank" align="center" alt="Tomaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
 
-  ##
+## 🤓 Experience
+- C#/.NET (SQLServer, Entity, ADO.NET) - [(Learning Repo)](https://github.com/TomazMPP/CSharpLearning)
+- Java (SpringBoot, Maven)
+- Vue3
+- Bootstrap
+- **Other Tools**: Docker, Postman
+- **Concepts**: SOLID, DAL & DAO, SCRUM, RUP
+- **IDE**: Visual Studio, VSCode, IntelliJ, DataGrip
+- **Databases**: SQLServer, PostgreSQL, H2, MySQL
+- **Versionamento de Projetos**: Git & Github
+
+<div style="display: inline_block"><br>
+  <img target="_blank" align="center" alt="Java logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img target="_blank" align="center" alt="CSharp logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg">
+   <img target="_blank" align="center" alt="DotNet logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dot-net/dot-net-original.svg">
+  <img target="_blank" align="center" alt="Vue logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vuejs/vuejs-original.svg">
+  <img target="_blank" align="center" alt="Bootstrap logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg">
+</div>
 
 <div> 
 <br>
