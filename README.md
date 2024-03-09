@@ -21,7 +21,6 @@ I'm Tomaz, Full-Stack Developer from <img src="https://cdn-icons-png.flaticon.co
 - **Concepts**: SOLID, DAL & DAO, SCRUM, RUP
 - **IDE**: Visual Studio, VSCode, IntelliJ, DataGrip
 - **Databases**: SQLServer, PostgreSQL, H2, MySQL
-- **Versionamento de Projetos**: Git & Github
 
 <div style="display: inline_block"><br>
   <img target="_blank" align="center" alt="Java logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
