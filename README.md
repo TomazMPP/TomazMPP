@@ -1,7 +1,7 @@
 ### Olá, eu sou o Tomaz 👋
 
 <p>Bem-vindo ao meu Github! </br>
-Eu sou Tomaz, Desenvolvedor Full-Stack de <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="13"/> <b>Belo Horizonte, MG</b>.
+Meu nome é Tomaz, sou Desenvolvedor Full-Stack natural de <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="13"/> <b>Belo Horizonte, MG</b>.
 <br> 
 
 👨‍💻 Você pode conferir meu portfólio aqui: https://www.tomazpont.es <br>
