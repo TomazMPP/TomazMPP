@@ -1,30 +1,31 @@
-### Hi, I'm Tomaz! 👋
+### Olá, eu sou o Tomaz 👋
 
-<p>Welcome to my page! </br>
-I'm Tomaz, Full-Stack Developer from <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="13"/> <b>Belo Horizonte, Brazil</b>.
+<p>Bem-vindo ao meu Github! </br>
+Eu sou Tomaz, Desenvolvedor Full-Stack de <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="13"/> <b>Belo Horizonte, MG</b>.
 <br> 
 
-👨‍💻You can check my portfolio here: https://www.tomazpont.es <br>
-📖 Also my blog: https://blog.tomazpont.es
+👨‍💻 Você pode conferir meu portfólio aqui: https://www.tomazpont.es <br>
+📖 Também meu blog (em inglês): https://blog.tomazpont.es
 
-## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🎓 I'm currently studying in 2 universities. **Analysis and Development of Systems** at PUC-Minas and **Software Engineering** at Estácio. I'm also taking many side courses, such as **Harvard's CS50**.
-- <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="15"/><img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="15"/><img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="15"/> I can speak **native Brazilian portuguese** and **fluent English [(C2 Certified)](https://www.efset.org/cert/81WpEu)**. I'm also **learning German.**
-- **GPA 1st Semester** (converted on a 0-4 weighted scale): 3.82 (Estácio) & 3.74 (PUC)
+## 📖 Sobre Mim
+- 🎓 Atualmente estou estudando em 2 universidades. **Análise e Desenvolvimento de Sistemas** na PUC-Minas e **Engenharia de Software** na Estácio. Também estou fazendo muitos cursos extras, como o **CS50 de Harvard**.
+- <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="15"/><img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="15"/><img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="15"/> Falo **português brasileiro nativo** e **inglês fluente [(Certificado C2)](https://www.efset.org/cert/81WpEu)**. Também estou **aprendendo alemão**.
+- **CR do 1º Semestre:** 9,07 (Estácio) & 8,97 (PUC-Minas)
 
-## 🤓 Experience
-- C#/.NET (SQLServer, Entity, ADO.NET) - [(Learning Repo)](https://github.com/TomazMPP/CSharpLearning)
+## 🤓 Experiência
+- C#/.NET (SQLServer, Entity, ADO.NET) - [(Repositório de Aprendizado)](https://github.com/TomazMPP/CSharpLearning)
 - Vue3
 - Bootstrap
-- **Other Tools**: Docker, Postman
-- **Methodologies**: SCRUM, RUP
+- **Outras Ferramentas**: Docker, Postman
+- **Metodologias**: SCRUM, RUP
 
 <div style="display: inline_block"><br>
-  <img target="_blank" align="center" alt="Java logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
 <img target="_blank" align="center" alt="CSharp logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg">
    <img target="_blank" align="center" alt="DotNet logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dot-net/dot-net-original.svg">
   <img target="_blank" align="center" alt="Vue logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vuejs/vuejs-original.svg">
   <img target="_blank" align="center" alt="Bootstrap logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg">
+  <img target="_blank" align="center" alt="Java logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 <div> 
