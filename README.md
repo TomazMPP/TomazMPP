@@ -8,7 +8,7 @@ Meu nome é Tomaz, sou Desenvolvedor Full-Stack natural de <img src="https://cdn
 📖 Também meu blog (em inglês): https://blog.tomazpont.es
 
 ## 📖 Sobre Mim
-- 🎓 Atualmente estou estudando em 2 universidades. **Análise e Desenvolvimento de Sistemas** na PUC-Minas e **Engenharia de Software** na Estácio. Também estou fazendo muitos cursos extras, como o **CS50 de Harvard**.
+- 🎓 Atualmente estou estudando em 2 universidades. **Análise e Desenvolvimento de Sistemas** na PUC-Minas e **Engenharia de Software** na Estácio.
 - <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="15"/><img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="15"/><img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="15"/> Falo **português brasileiro nativo** e **inglês fluente [(Certificado C2)](https://www.efset.org/cert/81WpEu)**. Também estou **aprendendo alemão**.
 - **CR do 1º Semestre:** 9,07 (Estácio) & 8,97 (PUC-Minas)
 
