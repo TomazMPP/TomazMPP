@@ -1,7 +1,6 @@
 ### Olá, eu sou o Tomaz 👋
 
 <p>Bem-vindo ao meu Github! </br>
-Meu nome é Tomaz, sou Desenvolvedor Full-Stack natural de <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="13"/> <b>Belo Horizonte, MG</b>.
 <br> 
 
 🔗 Bento: https://bento.me/tomaz <br>
