@@ -1,46 +1,10 @@
-### Olá, eu sou o Tomaz 👋
+<ul>
+<li>🔗 Bento: https://bento.me/tomaz </li>
+<li>📖 Blog: https://blog.tomazpont.es</li>
+</ul>
+<p>I'm a <strong>freedom-driven</strong> tech and crypto enthusiast, coding and studying for the sheer joy of it. Guided by <strong>libertarian ideals</strong>, I'm a self-made millionaire with a deep passion for <strong>decentralization</strong>.</p>
 
-<p>Bem-vindo ao meu Github! </br>
-<br> 
-
-🔗 Bento: https://bento.me/tomaz <br>
-📃 Currículo: https://read.cv/tomaz <br>
-👨‍💻 Você pode conferir meu portfólio aqui: https://www.tomazpont.es <br>
-📖 Também meu blog (em inglês): https://blog.tomazpont.es
-
-## 📖 Sobre Mim
-- 🎓 Atualmente estou estudando em 2 universidades. **Análise e Desenvolvimento de Sistemas** na PUC-Minas e **Engenharia de Software** na Estácio.
-- <img src="https://cdn-icons-png.flaticon.com/256/3909/3909370.png" width="15"/><img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" width="15"/><img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="15"/> Falo **português brasileiro nativo** e **inglês fluente [(Certificado C2)](https://www.efset.org/cert/81WpEu)**. Também estou **aprendendo alemão**.
-- **CR do 1º Semestre:** 9,07 (Estácio) & 8,97 (PUC-Minas)
-
-## 🤓 Experiência
-- C#/.NET (SQLServer, Entity, ADO.NET) - [(Repositório de Aprendizado)](https://github.com/TomazMPP/CSharpLearning)
-- Vue3
-- Bootstrap
-- **Outras Ferramentas**: Docker, Postman
-- **Metodologias**: SCRUM, RUP
-
-<div style="display: inline_block"><br>
-  
-<img target="_blank" align="center" alt="CSharp logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg">
-   <img target="_blank" align="center" alt="DotNet logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dot-net/dot-net-original.svg">
-  <img target="_blank" align="center" alt="Vue logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vuejs/vuejs-original.svg">
-  <img target="_blank" align="center" alt="Bootstrap logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg">
-  <img target="_blank" align="center" alt="Java logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-
-<div> 
-<br>
-  <a href="https://www.tomazpont.es" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-  <a href = "mailto:tomazmppontes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tomaz-pontes-851b85131/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="#">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=TomazMPP&color=blueviolet&style=for-the-badge&label=VISITORS"/>
-  </a>
-</div>
-
-##
-
+<img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/solana.png"><img src="https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/bitcoin.png">
 <div>
   <a href="#" target="_self">
       <div align="center">
@@ -50,3 +14,7 @@
 </div>
     <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TomazMPP&theme=github-compact">
+
+<a href="#">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=TomazMPP&color=blueviolet&style=for-the-badge&label=VISITORS"/>
+  </a>
