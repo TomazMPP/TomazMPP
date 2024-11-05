@@ -2,7 +2,7 @@
 <li>🔗 Bento: https://bento.me/tomaz </li>
 <li>📖 Blog: https://blog.tomazpont.es</li>
 </ul>
-<p>I'm a <strong>freedom-driven</strong> tech and crypto enthusiast, coding and studying for the sheer joy of it. Guided by <strong>libertarian ideals</strong>, I'm a self-made millionaire with a deep passion for <strong>decentralization</strong>.</p>
+<p>I'm a <strong>freedom-driven</strong> tech and crypto enthusiast, coding and studying for the sheer joy of it. Guided by <strong>libertarian ideals</strong> and a deep passion for <strong>decentralization</strong>.</p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TomazMPP&theme=github-compact">
 
