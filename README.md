@@ -7,4 +7,4 @@ Web application designed to help users check and analyze processing times for va
 
 ## Archive
 ### [Puros.me](https://github.com/TomazMPP/puros.me)
-*(Built for learning purposes) Puros.me is a modern web application that allows users to create personalized portfolio pages and showcase their projects through a single, customizable link. Built with Next.js and Firebase, it offers a seamless experience for professionals to display their work and track engagement. Built with NextJS, Typescript, React, Tailwind, Firebase.
+*(Built for learning purposes) Puros.me is a modern web application that allows users to create personalized portfolio pages and showcase their projects through a single, customizable link. It offers a seamless experience for professionals to display their work and track engagement. Built with NextJS, Typescript, React, Tailwind, Firebase.
