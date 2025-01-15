@@ -1,4 +1,4 @@
-## Active Micro-SaaS Projects
+## Active Micro-SaaS/SaaS Projects
 ### (Paid) [Parabens.me](https://www.parabens.me/) 
 Parabens.me is a platform that allows you to create unique and personalized birthday pages in less than 5 minutes. It is a creative and modern way to celebrate special dates, going beyond the traditional congratulatory messages. Built with Next.js, Typescript, React, Tailwind, Firebase.
 
@@ -10,4 +10,4 @@ An interactive world map visualization that displays IShowSpeed's travel history
 
 ## Archive
 ### [Puros.me](https://github.com/TomazMPP/puros.me)
-*(Built for learning purposes) Puros.me is a modern web application that allows users to create personalized portfolio pages and showcase their projects through a single, customizable link. It offers a seamless experience for professionals to display their work and track engagement. Built with NextJS, Typescript, React, Tailwind, Firebase.
+*(Built for learning purposes) Puros.me is a modern web application that allows users to create personalized portfolio pages and showcase their projects through a single, customizable link. It offers a seamless experience for professionals to display their work and track engagement. Built with Next.js, Typescript, React, Tailwind, Firebase.
