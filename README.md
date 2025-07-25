@@ -1,9 +1,21 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=TomazMPP&color=blueviolet&style=for-the-badge&label=VISITORS)
 
+Hi, I'm Tomaz. Builder at heart, currently diving deep into cybersecurity.  
+Still shipping small projects when ideas pop up.
 
-**Previous projects**  
-- [FotosProfissionais.com](https://www.fotosprofissionais.com) ($32 TR) — Generate professional AI Headshots with your own selfies in just a few minutes.
-- [NomadHelper.ai](https://www.nomadhelper.ai) ($200 TR) — AI-powered travel planning, get personalized itineraries, season planning for nomads, instant cost calculations, and smart destination recommendations in seconds.
-- [iShowSpeedTracker](https://www.ishowspeedtracker.com) (Free) — Interactive world map visualization that displays IShowSpeed's travel history, upcoming visits, and related content for each country. The map features a dynamic visualization system with both standard and chronological viewing modes.
-- [AustralianVisaTracker](https://www.australianvisatracker.com) (Free) — Unofficial web app to track Australian visa processing times. Built with React, Node.js, and PostgreSQL. Perfect for visa applicants seeking clarity and updates.
-- [Parabens.me](https://www.parabens.me) ($0 MRR) *(not my proudest project lol)* — Lets you create personalized birthday pages in under 5 minutes, offering a modern twist to celebrating special moments beyond traditional messages.
+---
+
+### ✦ Projects
+
+- [**FotosProfissionais.com**](https://www.fotosprofissionais.com) — AI-generated headshots from selfies. ($32 TR)  
+- [**NomadHelper.ai**](https://www.nomadhelper.ai) — AI travel planner for digital nomads. Personalized itineraries, costs, and destination logic. ($200 TR)  
+- [**iShowSpeedTracker**](https://www.ishowspeedtracker.com) — Map and timeline of IShowSpeed's travels. Built on a whim.  
+- [**AustralianVisaTracker**](https://www.australianvisatracker.com) — Tracks Australian visa processing times. Unofficial, but helpful.  
+- [**Parabens.me**](https://www.parabens.me) — Custom birthday pages in minutes. Dead project, but still up.
+
+---
+
+### ☕ Elsewhere
+
+Breaking things to learn how to fix them.  
+Building when there's nothing good on YouTube.
