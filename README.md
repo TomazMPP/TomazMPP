@@ -1,4 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=TomazMPP&color=blueviolet&style=for-the-badge&label=VISITORS)
+<br /> <br />
+<img src="https://tryhackme-badges.s3.amazonaws.com/fxCogit.png" alt="Your Image Badge" />
 
 Hi, I'm Tomaz. Builder at heart, currently diving deep into cybersecurity.  
 Still shipping small projects when ideas pop up.
