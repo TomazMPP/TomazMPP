@@ -21,8 +21,3 @@ Still shipping small projects when ideas pop up.
 - [**Parabens.me**](https://www.parabens.me) - Custom birthday pages in minutes. Dead project, but still up.
 
 ---
-
-### ☕ Elsewhere
-
-Breaking things to learn how to fix them.  
-Building when there's nothing good on YouTube.
