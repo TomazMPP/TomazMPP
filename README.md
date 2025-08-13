@@ -8,7 +8,7 @@ Still shipping small projects when ideas pop up.
 ---
 
 ### ✦ Active Projects
-- [**AustralianVisaTracker**](https://www.australianvisatracker.com) — Tracks Australian visa processing times. Unofficial, but helpful.
+- [**AustralianVisaTracker**](https://www.australianvisatracker.com) — Tracks Australian visa processing times with better UI than the official website. 
   
 ### ✦ Inactive Projects (but still up)
 
