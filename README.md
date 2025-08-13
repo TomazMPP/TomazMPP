@@ -7,12 +7,14 @@ Still shipping small projects when ideas pop up.
 
 ---
 
-### ✦ Projects
+### ✦ Active Projects
+- [**AustralianVisaTracker**](https://www.australianvisatracker.com) — Tracks Australian visa processing times. Unofficial, but helpful.
+  
+### ✦ Inactive Projects (but still up)
 
-- [**FotosProfissionais.com**](https://www.fotosprofissionais.com) — AI-generated headshots from selfies. ($32 TR)  
-- [**NomadHelper.ai**](https://www.nomadhelper.ai) — AI travel planner for digital nomads. Personalized itineraries, costs, and destination logic. ($200 TR)  
+- [**FotosProfissionais.com**](https://www.fotosprofissionais.com) — AI-generated headshots from selfies. 
+- [**NomadHelper.ai**](https://www.nomadhelper.ai) — AI travel planner for digital nomads. Personalized itineraries, costs, and destination logic. 
 - [**iShowSpeedTracker**](https://www.ishowspeedtracker.com) — Map and timeline of IShowSpeed's travels. Built on a whim.  
-- [**AustralianVisaTracker**](https://www.australianvisatracker.com) — Tracks Australian visa processing times. Unofficial, but helpful.  
 - [**Parabens.me**](https://www.parabens.me) — Custom birthday pages in minutes. Dead project, but still up.
 
 ---
