@@ -13,7 +13,7 @@ I'm Tomaz.
 ### ✦ Active Projects
 - Currently focused on core business operations.
   
-### ✦ Inactive Projects (but still up)
+### ✦ Inactive Projects
 - [**Organizou.me**](https://organizou.me/) - All-in-one life OS: finances, habits, health, studies, routines, and travel in a single dashboard. Built for Brazilians who want Notion-level organization without Notion.
 - [**AustralianVisaTracker**](https://www.australianvisatracker.com) - Tracks Australian visa processing times with better UI than the official website. 
 - [**FotosProfissionais.com**](https://www.fotosprofissionais.com) - AI-generated headshots from selfies. 
