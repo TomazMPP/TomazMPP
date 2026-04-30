@@ -5,7 +5,7 @@ I'm Tomaz.
 ---
 
 ### ✦ Active Entrepreneurship  
-- **Meppo Serviços Digitais** - Digital media company operating high-traffic content platforms. Builds and scales niche digital platforms with a focus on traffic acquisition, conversion funnels, subscription models, and ad-tech monetization (content lockers, performance-based networks, premium memberships).
+- [**Meppo Serviços Digitais**](https://www.meppo.com.br/) - Digital media company operating high-traffic content platforms. Builds and scales niche digital platforms with a focus on traffic acquisition, conversion funnels, subscription models, and ad-tech monetization (content lockers, performance-based networks, premium memberships).
 
 ### ✦ Previous Entrepreneurship  
 - [**Ambare**](https://www.ambare.ind.br/) _(Company sold)_ - Founder of a manufacturing company specializing in high-precision industrial flow meters (not really in the IT space).
