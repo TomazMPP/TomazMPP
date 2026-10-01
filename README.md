@@ -10,6 +10,8 @@ I'm Tomaz.
 
 <a href="https://listamrr.com.br/p/c14c5506?utm_source=badge&utm_medium=embed&utm_campaign=verified-badge&utm_content=c14c5506"><img src="https://listamrr.com.br/api/badge/c14c5506?metric=receita" alt="Receita verificada no ListaMRR" height="36"></a>
 
+<a href="https://listamrr.com.br/p/c14c5506?utm_source=badge&utm_medium=embed&utm_campaign=verified-badge&utm_content=c14c5506"><img src="https://listamrr.com.br/api/badge/c14c5506" alt="MRR verificado no ListaMRR" height="36"></a>
+
 ### ✦ Previous Entrepreneurship
 
 - [**Ambare**](https://www.ambare.ind.br/) _(Company sold)_ - Founder of a manufacturing company specializing in high-precision industrial flow meters, outside the traditional software and IT industry.
