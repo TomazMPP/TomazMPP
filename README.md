@@ -2,12 +2,13 @@
 <br /> <br />
 I'm Tomaz. 
 
-
 ---
 
 ### ✦ Active Entrepreneurship
 
 - [**Meppo Serviços Digitais**](https://www.meppo.com.br/) - Digital media company that builds and scales high-traffic niche platforms, with a focus on traffic acquisition, conversion funnels, subscription models, and ad-tech monetization, including content lockers, performance-based advertising networks, and premium memberships.
+
+<a href="https://listamrr.com.br/p/c14c5506?utm_source=badge&utm_medium=embed&utm_campaign=verified-badge&utm_content=c14c5506"><img src="https://listamrr.com.br/api/badge/c14c5506?metric=receita" alt="Receita verificada no ListaMRR" height="36"></a>
 
 ### ✦ Previous Entrepreneurship
 
