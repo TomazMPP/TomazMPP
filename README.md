@@ -8,7 +8,7 @@ I'm Tomaz.
 
 - https://licitacao.pro/
 - https://enxovando.com.br/
-- https://www.meppo.com.br/
+- https://meppo.com.br/
 - https://zammes.com.br/
 
 ### ✦ Previous Entrepreneurship
