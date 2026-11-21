@@ -6,13 +6,13 @@ I'm Tomaz.
 
 ### ✦ Active Entrepreneurship
 
-- :brazil: [Licitação.pro](https://licitacao.pro/)
-- :brazil: [FalaFeed](https://falafeed.com.br/)
-- :brazil: [KrokoPay](https://krokopay.app/)
-- :brazil: [Enxovando](https://enxovando.com.br/)
-- :brazil: [Zammes](https://zammes.com.br/)
-- :brazil: :us: [Meppo](https://meppo.com.br/)
-- :us: [SNIRT LLC](https://www.snirt.llc/)
+- <img src="https://flagcdn.com/w40/br.png" width="20" alt="Brasil"> [Licitação.pro](https://licitacao.pro/)
+- <img src="https://flagcdn.com/w40/br.png" width="20" alt="Brasil"> [FalaFeed](https://falafeed.com.br/)
+- <img src="https://flagcdn.com/w40/br.png" width="20" alt="Brasil"> [KrokoPay](https://krokopay.app/)
+- <img src="https://flagcdn.com/w40/br.png" width="20" alt="Brasil"> [Enxovando](https://enxovando.com.br/)
+- <img src="https://flagcdn.com/w40/br.png" width="20" alt="Brasil"> [Zammes](https://zammes.com.br/)
+- <img src="https://flagcdn.com/w40/br.png" width="20" alt="Brasil"> <img src="https://flagcdn.com/w40/us.png" width="20" alt="Estados Unidos"> [Meppo](https://meppo.com.br/)
+- <img src="https://flagcdn.com/w40/us.png" width="20" alt="Estados Unidos"> [SNIRT LLC](https://www.snirt.llc/)
   
 ### ✦ Previous Entrepreneurship
 
