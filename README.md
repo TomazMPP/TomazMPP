@@ -6,11 +6,14 @@ I'm Tomaz.
 
 ### ✦ Active Entrepreneurship
 
-- https://licitacao.pro/
-- https://enxovando.com.br/
-- https://meppo.com.br/
-- https://zammes.com.br/
-
+🇧🇷 - https://licitacao.pro/
+🇧🇷 - https://falafeed.com.br/
+🇧🇷- https://krokopay.app/
+🇧🇷 - https://enxovando.com.br/
+🇧🇷 - https://zammes.com.br/
+🇧🇷🇺🇲 - https://meppo.com.br/
+🇺🇲 - https://www.snirt.llc/
+  
 ### ✦ Previous Entrepreneurship
 
 - [**Ambare**](https://www.ambare.ind.br/) _(Company sold)_ - Founder of a manufacturing company specializing in high-precision industrial flow meters, outside the traditional software and IT industry.
