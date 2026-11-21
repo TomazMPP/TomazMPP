@@ -6,13 +6,13 @@ I'm Tomaz.
 
 ### ✦ Active Entrepreneurship
 
-🇧🇷 - https://licitacao.pro/
-🇧🇷 - https://falafeed.com.br/
-🇧🇷- https://krokopay.app/
-🇧🇷 - https://enxovando.com.br/
-🇧🇷 - https://zammes.com.br/
-🇧🇷🇺🇲 - https://meppo.com.br/
-🇺🇲 - https://www.snirt.llc/
+- :brazil: [Licitação.pro](https://licitacao.pro/)
+- :brazil: [FalaFeed](https://falafeed.com.br/)
+- :brazil: [KrokoPay](https://krokopay.app/)
+- :brazil: [Enxovando](https://enxovando.com.br/)
+- :brazil: [Zammes](https://zammes.com.br/)
+- :brazil: :us: [Meppo](https://meppo.com.br/)
+- :us: [SNIRT LLC](https://www.snirt.llc/)
   
 ### ✦ Previous Entrepreneurship
 
